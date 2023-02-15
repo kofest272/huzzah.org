@@ -20,6 +20,7 @@
     display: flex;
     justify-content: flex-start;
     position: fixed;
+    z-index: 3;
 }
 
 .logo {
